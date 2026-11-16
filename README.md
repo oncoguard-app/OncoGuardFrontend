@@ -1,6 +1,6 @@
 # OncoGuard Frontend
 
-Interface web de [OncoGuardApi](https://github.com/MILLOGO-cell/OncoGuardApi), réalisée dans le cadre de mon mémoire de Master. Elle permet de téléverser des images mammographiques, de lancer l'analyse et de consulter les résultats de classification BI-RADS.
+Interface web de [OncoGuardApi](https://github.com/oncoguard-app/OncoGuardApi), réalisée dans le cadre de mon mémoire de Master. Elle permet de téléverser des images mammographiques, de lancer l'analyse et de consulter les résultats de classification BI-RADS.
 
 ## Fonctionnalités
 
